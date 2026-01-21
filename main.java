@@ -145,20 +145,21 @@ public class main {
 //     }
     
 // }
- public static void floyd(){
-    int counter=1;
-    for(int i=1;i<=5;i++){
-        for(int j=i;j<=i+1;j++){
+//  public static void floyd(){
+//     int counter=1;
+//     for(int i=1;i<=5;i++){
+//         for(int j=i;j<=i+1;j++){
 
-            System.out.print(j);
-        }
-        System.err.println("");
-    }
-}
-public static void main(String[] args) {
-    //inverted_half_pyramid(5);
-    floyd();
-}
-}
+//             System.out.print(j);
+//         }
+//         System.err.println("");
+//     }
+// }
+// public static void main(String[] args) {
+//     //inverted_half_pyramid(5);
+//     floyd();
+// }
+// }
+
 
 
